@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Doretienshinh</h1>
 <h3 align="center">A passionate frontend developer from Việt Nam</h3>
 
-- 🌱 I’m currently learning **Laravel**
+- 🌱 I’m currently learning **Nothing** :>
 
 - 📫 How to reach me **doretienshinh2@gmail.com**
 
