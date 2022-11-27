@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm D.Soul</h1>
-<h3 align="center">A passionate fullstack developer from Việt Nam</h3>
+<h3 align="center">A passionate Full-Stack Developer from Việt Nam</h3>
 
 - 🌱 I’m currently learning **Nothing** :>
 
